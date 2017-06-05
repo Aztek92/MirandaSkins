@@ -4,11 +4,9 @@
 Skins i made for Miranda NG, a mutliprotocol instant messenger. 
 http://www.miranda-ng.org/
 
-## Preview of different configurations:
+## Preview:
 ![Preview 1](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-1.png)
-![Preview 2](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-2.png)
-![Preview 3](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-3.png)
-![Preview 4](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-4.png)
+
 
 ## Features
 * skin that suits dark Windows 10 theme
@@ -30,3 +28,8 @@ Since a lot depends on your miranda configuration i recommend you to change few 
 * Remember to move profile pic (avatar) to 1st place in 'Objects in the row' in 'Contact List'
 * Use overlay on avatar with status icon
 * Using BBCode in IEView is rather recommended
+
+## Preview of different configurations:
+![Preview 2](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-2.png)
+![Preview 3](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-3.png)
+![Preview 4](https://raw.githubusercontent.com/Aztek92/MirandaSkins/master/preview-4.png)
